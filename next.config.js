@@ -4,6 +4,7 @@ const nextConfig = {
         appDir: true,
       
       },
+      /* Supress the Build Errors and generate the Dev Build */
       typescript:{
         ignoreBuildErrors:true
       }
